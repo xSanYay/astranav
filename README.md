@@ -9,4 +9,4 @@ Download the code and flash the Arduino with the .ino files provided. Follow the
 ([YouTube Video Link](https://www.youtube.com/watch?v=n9yU7u55zGg))
 
 
-#this code has been modified for individual works.
+# this code has been modified for individual works.
